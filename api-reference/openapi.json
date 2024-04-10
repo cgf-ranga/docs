@@ -129,7 +129,7 @@
         }
       }
     },
-    "/v1/evaluation": {
+    "/evaluation": {
       "post": {
         "description": "This endpoint allows B2B clients to submit a request for evaluation directly by providing reference links to the images.",
         "requestBody": {
